@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Story';
+    src: url('Story.woff2') format('woff2'),
+        url('Story.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
